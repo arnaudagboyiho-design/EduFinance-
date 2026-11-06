@@ -1,0 +1,6 @@
+{
+  "name": "EduFinance Pro",
+  "description": "Application de gestion académique, trésorerie scolaire et génération de bulletins avec QR code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
